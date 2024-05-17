@@ -1,0 +1,12 @@
+---
+:id: 238172644
+:submitters:
+- :name: David Uno
+  :email: unodeej@gmail.com
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-03-11 05:32:17.600464000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-03-10 22:32:17.600464000 Z
+:status: processed
+:score: 30.0
